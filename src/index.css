@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Tiro+Gurmukhi&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Tiro Gurmukhi", serif;
+}
+
+.navbar-bgcol{
+  background-color: teal !important;
+  color: white;
+}

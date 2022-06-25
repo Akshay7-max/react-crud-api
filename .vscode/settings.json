@@ -1,0 +1,11 @@
+"emojisense.languages": {
+    "markdown": true,
+    "plaintext": {
+      "markupCompletionsEnabled": false,
+      "emojiDecoratorsEnabled": false
+    },
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    },
+    "git-commit": true
+  }
